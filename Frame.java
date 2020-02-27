@@ -14,10 +14,6 @@ public class Frame {
 
     public static void main(String[] args) {
 
-
-
-
-
         JFrame frame = new JFrame("Chat Programme");
 
         frame.setDefaultCloseOperation(EXIT_ON_CLOSE);
